@@ -1,0 +1,131 @@
+/* Home CSS */
+
+header {
+  display: flex;
+  justify-content:space-between;
+  text-align:center;
+}
+
+.content {
+  display: flex;
+  align-items: center;
+  height:100px;
+  text-align: center;
+}
+
+.rounded-image {
+  width: 100px; 
+  height: auto; 
+  border-radius: 10%;
+  margin-right: 5px;
+}
+
+.text {
+  flex:1; 
+  text-align:left;
+}
+
+main {
+  justify-content: center;
+  align-items: center;
+}
+
+/*Welcome card*/
+.Welcome-card {
+  padding: 10px;
+  border-radius: 5px;
+  margin: 50px 30px 10px 30px;
+  text-align: center;
+  background-color: #d6e8fb82;
+  /* background-image: url(https://source.unsplash.com/random?wallpapers); */
+  /* box-shadow: 0 2px 4px rgba(98, 96, 96, 0.1); */
+}
+
+.listing-image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+/* Featured listings for snapshots section */
+.snapshots{
+  padding: 10px;
+  border-radius: 5px;
+  margin: 10px 30px;
+  text-align: center;
+  background-color: #d6e8fb82;
+ }
+
+.featured-listings {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 10px 20px;
+  justify-content: space-between;
+  background-color:  #faf7f782;
+}
+
+.featured-card {
+  margin: 5px;
+  padding:auto;
+  width: 280px;
+}
+
+.featured-image {
+  border-radius: 5px;
+  justify-content: space-between;
+}
+
+
+/* facility section*/
+.facilities {
+  padding: 10px;
+  border-radius: 5px;
+  margin: 10px 30px;
+  text-align: center;
+  background-color: #d6e8fb82;
+  /* box-shadow: 0 2px 4px rgba(98, 96, 96, 0.1); */
+}
+
+.facilities-listings {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 10px;
+  justify-content: space-between;
+  padding: 0px 10px 0px 10px;
+}
+
+.facilities-card {
+  width: 270px;
+  text-align: left;
+   /* box-shadow: 0 2px 4px rgba(98, 96, 96, 0.1); */
+}
+
+.facility-images {
+  border-radius: 5px;
+  margin: 10px 10px; 
+  max-width: 100%;
+  height: 50px;
+}
+
+.footer-listings {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 10px 30px;
+  padding: 10px;
+  border-radius: 5px;
+  text-align: center;
+  background-color: hsl(256, 71%, 92%);
+  box-shadow: 0 2px 4px rgba(98, 96, 96, 0.1);
+}
+
+.footer-card{
+  margin: 10px 30px 10px 30px;
+  width: 300px;
+  text-align: center;
+  padding: 10px 10px 10px 10px;
+  /* box-shadow: 0 2px 4px rgba(98, 96, 96, 0.1); */
+}
+
+ /* background-image: url(https://images.unsplash.com/photo-1695198671984-276e5c3f1f67?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDI0N3xGem8zenVPSE42d3x8ZW58MHx8fHx8&auto=format&fit=crop&w=500&q=60); */
+ 

@@ -1,0 +1,86 @@
+
+/* Room Update & Form */
+.Room-listing {
+  background-image:url(https://source.unsplash.com/random?wallpapers) ;
+  background-size:cover;
+  padding: 30px 650px;
+  height:auto;
+  justify-content: space-between; 
+  align-content: center;}
+
+.Room-form {
+  text-align: center;
+  padding: auto;
+  width: 400px;
+  height: 650px;
+  border-radius: 100px 10px;
+  margin: 40px;
+  padding: 50px 50px 50px 50px;
+  background: rgba(255, 255, 255, 0.804);
+}
+
+/* ROOM Design*/
+.Room {
+  width: 100%;
+  align-content: center;
+  background-color: #daf6fb8a;
+}
+.Room-body{
+  display: flex;
+  text-align: center;
+  height: 120px;
+  border-radius: 0px 0px;
+  margin: 0px;
+  padding: 40px 40px 70px 40px;
+  background: rgb(255, 255, 255);
+  box-shadow: 0 2px 4px rgba(32, 32, 32, 0.353);
+}
+
+/*LOGO*/
+.rounded-image {
+  width: 150px; 
+  height: 100px; 
+  border-radius: 10%;
+  margin-right: 5px;
+  margin-top: -30px;
+}
+
+.Room-search {
+  align-content: center;
+  height: 20px;
+  border-radius: 10px 10px;
+  margin: 10px;
+  padding: 10px 300px 10px 300px;
+  /* background-color: rgba(253, 253, 253, 0.905);*/
+}
+
+.Room-Add{
+  display: flex;
+  text-align: center;
+  border-radius: 10px 10px;
+  margin: 20px 0px 0px 0px;
+  padding: 10px 10px 10px 1500px;
+}
+
+/* Room  Card*/
+.Room-card {
+  display: flex;
+  text-align: center;
+  height: auto;
+  border-radius: 10px 10px;
+  margin: 10px 10px;
+  padding: 10px 10px 10px 20px;
+  background-color: #daf6fb66;
+  /* box-shadow: 0 2px 4px rgba(241, 241, 241, 0.353); */
+}
+
+.Room-image {
+  text-align: center;
+  border-radius: 5px;
+  justify-content: space-between;
+  width: 250px;
+  height: 600px;
+  border-radius: 5px 5px;
+  margin: 5px 10px;
+  padding: 10px 10px 10px 10px;
+}

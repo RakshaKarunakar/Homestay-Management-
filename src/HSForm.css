@@ -1,0 +1,54 @@
+.form-listing {
+  background-image:url(https://source.unsplash.com/random?wallpapers) ;
+  border-radius: 10px 10px;
+  background-size:cover;
+  border-image-width: 0px ;
+  box-shadow: 0 2px 4px rgba(98, 96, 96, 0.1);
+  height:auto;
+  justify-content: space-between; 
+  align-content: center;
+}
+
+.form-card{
+  text-align: center;
+    width: 400px;
+    height: 700px;
+    border-radius: 100px 10px;
+    margin: 10px;
+    /* padding: 40px 20px 40px 20px; */
+  background: rgba(253, 255, 255, 0.993);
+}
+
+.Up-header {
+  border-radius:5px;
+  margin:0px;
+  padding: 30px 700px;
+  background-size:cover; 
+  border-image-width: 0px ;
+  background-image:url(https://source.unsplash.com/random?wallpapers) ;
+  /* background-image: url(https://lh3.googleusercontent.com/p/AF1QipM1qfTFFkCoy2Ofv34icvgjD8S263iVL0BlW2Se=w768-h768-n-o-v1); */
+  /* background: rgba(253, 255, 255, 0.723); */
+  }
+
+.UpForm{
+     text-align: center;
+    width: 450px;
+    height: 700px;
+    border-radius: 100px 10px;
+    margin: 0px;
+  background: rgba(229, 230, 230, 0.867);
+}
+
+.Table-header{
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  width: 100%;
+  height: auto;
+  border-radius: 0px;
+  margin: 0px;
+  padding: 40px 30px 20px 30px;
+  background: #fdfdfd;
+  box-shadow: 0 2px 4px rgba(32, 32, 32, 0.518);
+}
+/* background-image: url(https://1.bp.blogspot.com/-QiJ3Fl5VrgY/XkTsUWFMTuI/AAAAAAAACHM/Il56_QbkIoQQM_IqxQUCEgYhuMaLOOvjQCLcBGAsYHQ/s1600/homestay%2Bdi%2Bcameron%2Bhighland.jpg); */
